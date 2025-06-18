@@ -1,0 +1,49 @@
+# EditorConfig is awesome: https://EditorConfig.org
+root = true
+
+# General defaults
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Kotlin source files
+[*.{kt,kts}]
+indent_size = 4
+max_line_length = 120
+continuation_indent_size = 4
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# JSON files (e.g., dialogues, config)
+[*.json]
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# XML files (e.g., Tiled maps .tmx)
+[*.{xml,tmx}]
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Markdown and text files
+[*.md]
+trim_trailing_whitespace = false
+insert_final_newline = true
+
+# Kotlin script build files
+[*.gradle.kts]
+indent_style = space
+indent_size = 4
+insert_final_newline = true
+
+# Ignore binary files
+[*.{png,jpg,jpeg,gif,ico}]
+trim_trailing_whitespace = false
+insert_final_newline = false
