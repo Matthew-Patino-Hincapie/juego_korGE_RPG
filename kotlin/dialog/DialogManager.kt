@@ -205,7 +205,13 @@ class DialogManager(private val container: Container) {
             "¿Qué dices? ¿Aceptas mi desafío?"
         )
     }
-    
+    private fun getMedicoDialogs(): List<String> {
+        return listOf(
+            "Ah, por fin alguien más. Apenas estamos aguantando aquí… Las heridas no paran de llegar y los suministros escasean. Si no fuera por un poco de ingenio y suerte, ya habríamos perdido a la mitad del grupo.",
+            "He hecho lo que he podido con vendas improvisadas y analgésicos caducados. Pero esto no puede durar mucho más. Si ves alcohol, vendas limpias, o incluso una aguja decente, tráemelas. Lo que sea.",
+            "Y si te cruzas con algún herido en el camino… no los dejes. Tráelos aquí. No prometo milagros, pero al menos les daré una oportunidad."
+        )
+    }
     private fun getVillagerDialogs(): List<String> {
         val randomDialogs = arrayOf(
             listOf("He escuchado rumores sobre Pokémon raros en el bosque.", "Dicen que solo aparecen durante la noche..."),
