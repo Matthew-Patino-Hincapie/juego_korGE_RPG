@@ -1,10 +1,11 @@
+//Jhoan
 private fun createVictimDialog(): Dialog {
     val messages = arrayOf(
         "¿Yo? ¿Dramática? ¡Hermano, me cayó un rayo, me poseyó un espíritu y me meó un mono!",
         "Tenía cita con mi ex... y terminé poseída por un alma en pena que todavía lo ama."
     )
     val randomMessage = messages.random()
-
+//Nicolas
     return AlertDialog.Builder(requireContext())
         .setTitle("Lucía, la Víctima")
         .setMessage(randomMessage)
