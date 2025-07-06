@@ -1,4 +1,4 @@
-#Trabajo de Jhoan
+//Jhoan
 private fun createFirefighterDialog(): Dialog {
     val messages = arrayOf(
         "¡Mágico o no, si explota, me toca apagarlo!",
