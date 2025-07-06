@@ -1,3 +1,4 @@
+//Nicolas
 private fun createMuslimDialog(): Dialog {
     val messages = arrayOf(
         "¡En el nombre de Alá! ¡Paren de invocar demonios mientras preparo el arroz!",
