@@ -73,8 +73,8 @@ class MonoDialog : DialogFragment() {
         "Mono Mago" to "Tienes futuro… peligroso, pero futuro."
     )
 
+    private val defaultDialog = listOf(
         "Mono" to "¡Hola! ¿Tú también sabes magia?",
         "Desconocido" to "Solo un poco, amiguito."
-    private val defaultDialog = listOf(
     )
 }
