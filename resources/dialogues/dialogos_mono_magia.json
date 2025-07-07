@@ -1,0 +1,91 @@
+{
+  "escenas": [
+    {
+      "nombre": "Encuentro con el Mago Hombre",
+      "dialogo": [
+        {
+          "personaje": "Mono",
+          "texto": "¡Uuh uuh! Oye, tú con la barba brillante… ¿por qué tu bastón lanza luces y el mío solo suena al romperse?"
+        },
+        {
+          "personaje": "Mago Hombre",
+          "texto": "Porque el mío es un canal de magia, no un palo de escoba robado del suelo."
+        },
+        {
+          "personaje": "Mono",
+          "texto": "¿Y puedo tener uno así? Quiero hacer que los cocos se abran solos."
+        },
+        {
+          "personaje": "Mago Hombre",
+          "texto": "Eso requiere años de estudio, concentración… y no trepar árboles mientras se aprende."
+        },
+        {
+          "personaje": "Mono",
+          "texto": "Mmm… ¿y si estudio desde un árbol?"
+        },
+        {
+          "personaje": "Mago Hombre",
+          "texto": "Eres persistente. Quizás demasiado para alguien con bananas por meta."
+        }
+      ]
+    },
+    {
+      "nombre": "Encuentro con la Maga Mujer",
+      "dialogo": [
+        {
+          "personaje": "Mono",
+          "texto": "¡Oye tú, la de la capa que huele a flores! ¿Tú haces hechizos de fruta?"
+        },
+        {
+          "personaje": "Maga Mujer",
+          "texto": "Solo si la fruta no me salta en la cara como tú acabas de hacer."
+        },
+        {
+          "personaje": "Mono",
+          "texto": "Quiero hacer que las bananas vuelen y persigan a los ladrones."
+        },
+        {
+          "personaje": "Maga Mujer",
+          "texto": "Interesante concepto. Pero necesitas más que imaginación. ¿Sabes qué es concentración?"
+        },
+        {
+          "personaje": "Mono",
+          "texto": "Sí, es cuando miro una banana sin parpadear hasta que se me va la baba."
+        },
+        {
+          "personaje": "Maga Mujer",
+          "texto": "… Eso no es concentración, eso es hambre."
+        }
+      ]
+    },
+    {
+      "nombre": "Encuentro con el Mono Mago",
+      "dialogo": [
+        {
+          "personaje": "Mono",
+          "texto": "¡Woooah! ¡Eres como yo pero… brillas! ¿Eres un mono disfrazado de estrella?"
+        },
+        {
+          "personaje": "Mono Mago",
+          "texto": "Soy un mono que aprendió magia. Y sí, brillar es parte del estilo."
+        },
+        {
+          "personaje": "Mono",
+          "texto": "¿Entonces sí puedo ser mago? ¡Dime cómo! ¿Necesito comer relámpagos?"
+        },
+        {
+          "personaje": "Mono Mago",
+          "texto": "Necesitas paciencia, mente despierta… y no comerte los libros mágicos."
+        },
+        {
+          "personaje": "Mono",
+          "texto": "¿Y si solo me como las esquinas? Tienen menos letras."
+        },
+        {
+          "personaje": "Mono Mago",
+          "texto": "Tienes futuro… peligroso, pero futuro."
+        }
+      ]
+    }
+  ]
+}
